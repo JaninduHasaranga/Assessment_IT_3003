@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="UUh1IYLwG99nWDjP_cEv">
+    <mxGraphModel dx="1144" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7HDo8w2OWNRWcDifeXLK-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Admin&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="90" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="7HDo8w2OWNRWcDifeXLK-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Add Student" vertex="1">
+          <mxGeometry height="80" width="120" x="305" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7HDo8w2OWNRWcDifeXLK-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="View all Students&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="120" x="305" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="7HDo8w2OWNRWcDifeXLK-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Search student" vertex="1">
+          <mxGeometry height="80" width="120" x="305" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="7HDo8w2OWNRWcDifeXLK-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Update student informations" vertex="1">
+          <mxGeometry height="80" width="120" x="305" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="7HDo8w2OWNRWcDifeXLK-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Delete student" vertex="1">
+          <mxGeometry height="80" width="120" x="305" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="7HDo8w2OWNRWcDifeXLK-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Exit" vertex="1">
+          <mxGeometry height="80" width="120" x="305" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="7HDo8w2OWNRWcDifeXLK-12" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="7HDo8w2OWNRWcDifeXLK-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="130" y="380" as="sourcePoint" />
+            <mxPoint x="250" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7HDo8w2OWNRWcDifeXLK-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="7HDo8w2OWNRWcDifeXLK-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="130" y="380" as="sourcePoint" />
+            <mxPoint x="365" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7HDo8w2OWNRWcDifeXLK-14" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="7HDo8w2OWNRWcDifeXLK-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="130" y="380" as="sourcePoint" />
+            <mxPoint x="285" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7HDo8w2OWNRWcDifeXLK-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="7HDo8w2OWNRWcDifeXLK-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="130" y="380" as="sourcePoint" />
+            <mxPoint x="345" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7HDo8w2OWNRWcDifeXLK-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="7HDo8w2OWNRWcDifeXLK-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="130" y="380" as="sourcePoint" />
+            <mxPoint x="325" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7HDo8w2OWNRWcDifeXLK-17" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="7HDo8w2OWNRWcDifeXLK-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="130" y="380" as="sourcePoint" />
+            <mxPoint x="305" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
